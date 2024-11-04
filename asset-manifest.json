@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gaming/static/css/main.a2ce6277.css",
-    "main.js": "/gaming/static/js/main.38a0ae12.js",
-    "static/js/453.e9f2a2bd.chunk.js": "/gaming/static/js/453.e9f2a2bd.chunk.js",
-    "static/media/keyboard.jpg": "/gaming/static/media/keyboard.9d4403cabf15be97b7e6.jpg",
-    "index.html": "/gaming/index.html",
-    "main.a2ce6277.css.map": "/gaming/static/css/main.a2ce6277.css.map",
-    "main.38a0ae12.js.map": "/gaming/static/js/main.38a0ae12.js.map",
-    "453.e9f2a2bd.chunk.js.map": "/gaming/static/js/453.e9f2a2bd.chunk.js.map"
+    "main.css": "/static/css/main.be830bc9.css",
+    "main.js": "/static/js/main.8447244a.js",
+    "static/js/453.e9f2a2bd.chunk.js": "/static/js/453.e9f2a2bd.chunk.js",
+    "static/media/keyboard.jpg": "/static/media/keyboard.9d4403cabf15be97b7e6.jpg",
+    "index.html": "/index.html",
+    "main.be830bc9.css.map": "/static/css/main.be830bc9.css.map",
+    "main.8447244a.js.map": "/static/js/main.8447244a.js.map",
+    "453.e9f2a2bd.chunk.js.map": "/static/js/453.e9f2a2bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2ce6277.css",
-    "static/js/main.38a0ae12.js"
+    "static/css/main.be830bc9.css",
+    "static/js/main.8447244a.js"
   ]
 }
